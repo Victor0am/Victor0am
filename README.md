@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=Victor0am&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width=330></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor0am&theme=tokyonight&layout=compact&hide_border=true&hide=cmake,makefile,assembly&langs_count=6" width=275></img>
 
 <!--
 **Victor0am/Victor0am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
